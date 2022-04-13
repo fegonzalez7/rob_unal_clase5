@@ -53,7 +53,7 @@ sudo apt install ros-noetic-moveit
 
 **Note:** By the time I wrote this, the last stable version of moveit was 1.1.9. 
 
-Because our main focus is on robotics we will have a short taste of what Moveit is capable of, so first clone on *px_text_repo* on your *catkin_ws* and compile it.
+Because our main focus is on robotics we will have a short taste of what Moveit is capable of, so first clone [*px_text_moveit*](https://github.com/felipeg17/px_test_moveit.git) on your *catkin_ws* and compile it.
 
 ```sh 
 cd ~/catkin_ws/src
