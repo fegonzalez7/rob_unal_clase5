@@ -1,4 +1,17 @@
 # The phantom revenge
+
+Figth results:
+
+<details><summary>Open on your own risks</summary><p>
+
+[![Screenshot-from-2022-04-13-16-09-08.png](https://i.postimg.cc/zGp4zkFt/Screenshot-from-2022-04-13-16-09-08.png)](https://postimg.cc/CRBcJktk)
+
+Robot wins!
+
+[![Screenshot-from-2022-04-13-16-09-16.png](https://i.postimg.cc/1zjT65TD/Screenshot-from-2022-04-13-16-09-16.png)](https://postimg.cc/NyRpvYQ0)
+
+</p></details></br>
+
 ## Requirements
 
 ## The all mighty RTB for python 
@@ -95,6 +108,9 @@ If you want to learn more about moveit y recomment the following resources:
  - [**Move commander tutorial**](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/move_group_python_interface/move_group_python_interface_tutorial.html)
  - [**Tuts**](https://moveit.picknik.ai/galactic/doc/tutorials/tutorials.html)
 
+**Notice:** Also Realpe has a lot of experienceon moveit, go and check out his [repos](https://github.com/GitSRealpe). Realpe and Fajardo have been working with me, if you want to have a portfolio like them, consider joining to my research team, it is a limited offer, once I complete the team, people will beg for being part of this project. 
+
+[![Screenshot-from-2022-04-13-16-30-51.png](https://i.postimg.cc/xCJ0bdfz/Screenshot-from-2022-04-13-16-30-51.png)](https://postimg.cc/ygKqMsS1)
 
 ------------
 
