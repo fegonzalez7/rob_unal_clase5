@@ -92,9 +92,7 @@ python px_moveit_v2.py
 
 If you want to learn more about moveit y recomment the following resources:
  - [**Getting started with moveit**](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/getting_started/getting_started.html)
-
  - [**Move commander tutorial**](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/move_group_python_interface/move_group_python_interface_tutorial.html)
-
  - [**Tuts**](https://moveit.picknik.ai/galactic/doc/tutorials/tutorials.html)
 
 
