@@ -118,6 +118,13 @@ If you want to learn more about moveit y recomment the following resources:
 
 ------------
 
+------------
+
+`<Recorded class:>` : 
+https://drive.google.com/file/d/12lFjGgYykycmhP98ZCwVEyhBpqWARUnh/view?usp=sharing
+
+------------
+
 **Acknowledgments:**
 
  - Jose Manuel Fajardo
