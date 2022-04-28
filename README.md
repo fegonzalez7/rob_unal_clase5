@@ -114,7 +114,7 @@ If you want to learn more about moveit y recomment the following resources:
 
 ------------
 
-`<Lab guide>` : soon
+`<Lab guide>` : https://drive.google.com/file/d/1RGBmvqbng3HATgVkgL6y5xWPqr2GDuzn/view?usp=sharing
 
 ------------
 
