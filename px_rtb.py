@@ -20,4 +20,4 @@ if __name__ == "__main__":
     # robot.teach(np.array([0, 0, .25, 0]))
     a = robot.fkine(q)
     print(a)
-    input()
+    input() 

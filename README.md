@@ -12,6 +12,16 @@ Robot wins!
 
 </p></details></br>
 
+
+## Forward kinematics
+
+This repo won't teach you how to get the DH parameters, to do that I higly recommend the 3rd chaptor of Spong. Nevertheless, I will let some pictures that are useful. 
+
+<details><summary>Phantom X Mashmellows</summary><p>
+[![Mediciones.jpg](https://i.postimg.cc/59DLZ8Xz/Mediciones.jpg)](https://postimg.cc/V5BJtrBs)
+</p></details></br>
+
+
 ## Requirements
 
 ## The all mighty RTB for python 
