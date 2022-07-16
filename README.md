@@ -19,8 +19,7 @@ This repo won't teach you how to get the DH parameters, to do that I higly recom
 
 <details><summary>Phantom X Mashmellows</summary>
 <p align="center">
-    <img src="https://i.postimg.cc/Mpjz3msp/Mediciones.jpg#gh-light-mode-only" width="180px" alt="measures" />
-    <img src="https://i.postimg.cc/Mpjz3msp/Mediciones.jpg#gh-dark-mode-only" width="180px" alt="measures" />
+    <img src="https://i.postimg.cc/Mpjz3msp/Mediciones.jpg" width="180px" alt="measures" />
 </p>
 </details></br>
 
@@ -28,8 +27,7 @@ This repo won't teach you how to get the DH parameters, to do that I higly recom
 
 <details><summary>Phantom X StdDH Frames</summary>
 <p align="center">
-    <img src="https://i.postimg.cc/fLMZLnMV/phantomx.jpg#gh-light-mode-only" width="180px" alt="frames" />
-    <img src="https://i.postimg.cc/fLMZLnMV/phantomx.jpg#gh-dark-mode-only" width="450px" alt="frames" />
+    <img src="https://i.postimg.cc/fLMZLnMV/phantomx.jpg" width="450px" alt="frames" />
 </p>
 </details></br>
 
