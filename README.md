@@ -17,10 +17,27 @@ Robot wins!
 
 This repo won't teach you how to get the DH parameters, to do that I higly recommend the 3rd chaptor of Spong. Nevertheless, I will let some pictures that are useful. 
 
-<details><summary>Phantom X Mashmellows</summary><p>
-[![Mediciones.jpg](https://i.postimg.cc/59DLZ8Xz/Mediciones.jpg)](https://postimg.cc/V5BJtrBs)
-</p></details></br>
+<details><summary>Phantom X Mashmellows</summary>
+<p align="center">
+    <img src="https://i.postimg.cc/Mpjz3msp/Mediciones.jpg#gh-light-mode-only" width="180px" alt="measures" />
+    <img src="https://i.postimg.cc/Mpjz3msp/Mediciones.jpg#gh-dark-mode-only" width="180px" alt="measures" />
+</p>
+</details></br>
 
+**Lazyness alert**: Before unfold the picture, try yourself. It's the best way to learn.
+
+<details><summary>Phantom X StdDH Frames</summary>
+<p align="center">
+    <img src="https://i.postimg.cc/fLMZLnMV/phantomx.jpg#gh-light-mode-only" width="180px" alt="frames" />
+    <img src="https://i.postimg.cc/fLMZLnMV/phantomx.jpg#gh-dark-mode-only" width="450px" alt="frames" />
+</p>
+</details></br>
+
+## The future (?) - PX 100
+
+In the fortunate case you are working with the PX100 things maybe a little bit different. I found [mr. Chitiva's repo](https://github.com/cychitivav/px100_description) quite good. 
+
+**Lazyness alert no. 2**: Use the repo as a guide, don't steal his code, try first.
 
 ## Requirements
 
@@ -139,5 +156,8 @@ https://drive.google.com/file/d/12lFjGgYykycmhP98ZCwVEyhBpqWARUnh/view?usp=shari
 
  - Jose Manuel Fajardo
  - Sebastian Realpe 
+ - Cristian Chitiva (Well crafted repo for the PX100)
+ - William Sierra (Thanks for the pics)
+ - Brian Vasquez (Thanks for the pics)
 
 This repo has taken a lot of effort, so consider to leave a star, [follow me](https://felipeg17.github.io/index.html), and if you feel generous I have [Paypal](https://paypal.me/fegonzalez17?country.x=CO&locale.x=en_US) (just kidding).
