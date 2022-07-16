@@ -1,6 +1,6 @@
 # The phantom revenge
 
-Figth results:
+Fight results:
 
 <details><summary>Open on your own risks</summary><p>
 
@@ -33,7 +33,7 @@ Open a terminal and run:
 ```sh
 sudo apt install python3-pip
 pip3 install roboticstoolbox-python
-pip install simpy
+pip3 install sympy
 ```
 
 Check the following sources:
@@ -84,7 +84,7 @@ git clone https://github.com/felipeg17/px_test_moveit.git
 catkin build px_test_moveit
 ```
 
-Remember to keep *px_robot* uptated, so give it a pull. Go to the *px_robot* folder and type:
+Remember to keep *px_robot* updated, so give it a pull. Go to the *px_robot* folder and type:
 
 ```sh
 git pull origin master
@@ -95,10 +95,10 @@ I added a couple of interesting new files, the most important *px_moveit_v2.py*,
 Source everything and run:
 
 ```sh 
-roslaunch px_robot  px_moveit.launch 
+roslaunch px_robot px_moveit.launch 
 ```
 
-If everything goes well, you shall see somethin like this:
+If everything goes well, you shall see something like this:
 [![Screenshot-from-2022-04-13-15-41-56.png](https://i.postimg.cc/x1dnyBX3/Screenshot-from-2022-04-13-15-41-56.png)](https://postimg.cc/7fjFqsM5)
 
 [![Screenshot-from-2022-04-13-15-42-09.png](https://i.postimg.cc/0yHxtZmR/Screenshot-from-2022-04-13-15-42-09.png)](https://postimg.cc/G4YZtFqq)
@@ -111,20 +111,27 @@ python px_moveit_v2.py
 
 [![Screencast-from-13-04-22-15-52-02.gif](https://i.postimg.cc/MK8tfjsy/Screencast-from-13-04-22-15-52-02.gif)](https://postimg.cc/vD35pDwB)
 
-**Note:** Do not dare bithing about the quality. It was for speed porpuses.
+**Note:** Do not dare bitching about the quality. It was for speed purposes.
 
-If you want to learn more about moveit y recomment the following resources:
+If you want to learn more about moveit y recommend the following resources:
  - [**Getting started with moveit**](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/getting_started/getting_started.html)
  - [**Move commander tutorial**](http://docs.ros.org/en/kinetic/api/moveit_tutorials/html/doc/move_group_python_interface/move_group_python_interface_tutorial.html)
  - [**Tuts**](https://moveit.picknik.ai/galactic/doc/tutorials/tutorials.html)
 
-**Notice:** Also Realpe has a lot of experienceon moveit, go and check out his [repos](https://github.com/GitSRealpe). Realpe and Fajardo have been working with me, if you want to have a portfolio like them, consider joining to my research team, it is a limited offer, once I complete the team, people will beg for being part of this project. 
+**Notice:** Also Realpe has a lot of experience on moveit, go and check out his [repos](https://github.com/GitSRealpe). Realpe and Fajardo have been working with me, if you want to have a portfolio like them, consider joining to my research team, it is a limited offer, once I complete the team, people will beg for being part of this project. 
 
 [![Screenshot-from-2022-04-13-16-30-51.png](https://i.postimg.cc/xCJ0bdfz/Screenshot-from-2022-04-13-16-30-51.png)](https://postimg.cc/ygKqMsS1)
 
 ------------
 
-`<Lab guide>` : soon
+`<Lab guide>` : https://drive.google.com/file/d/1RGBmvqbng3HATgVkgL6y5xWPqr2GDuzn/view?usp=sharing
+
+------------
+
+------------
+
+`<Recorded class:>` : 
+https://drive.google.com/file/d/12lFjGgYykycmhP98ZCwVEyhBpqWARUnh/view?usp=sharing
 
 ------------
 
